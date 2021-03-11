@@ -1,0 +1,48 @@
+.info__wrapper {
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 40px;
+    width: 100%;
+    min-width: 1140px;
+    max-width: 1140px;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.info__overview-holder {
+    width: 570px;
+}
+.info__overview {
+    margin-bottom: 10px;
+    color: white;
+}
+.info__details {
+    
+
+}
+.info__title {
+    text-align: center;
+    color: orange;
+    margin-bottom: 20px;
+}
+.info__link {
+    color: orange;
+
+}
+.actor__title {
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+}
+.info__btn {
+    background-color: orange;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 6px 6px;
+    margin-right: 5px;
+}
+.recommendation__title {
+    margin: 35px 0;
+    text-align: center;
+    font-size: 30px;
+}
